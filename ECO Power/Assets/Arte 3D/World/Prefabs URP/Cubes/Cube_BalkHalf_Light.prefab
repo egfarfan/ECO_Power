@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4901963071872112}
   - component: {fileID: 33106381968028888}
   - component: {fileID: 23353481477943816}
-  - component: {fileID: 2461609964697344613}
+  - component: {fileID: 740584782009294374}
   m_Layer: 0
   m_Name: Cube_BalkHalf_Light
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &2461609964697344613
+--- !u!65 &740584782009294374
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

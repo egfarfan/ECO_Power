@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4290906384263030}
   - component: {fileID: 33194846235593628}
   - component: {fileID: 23311827102401740}
-  - component: {fileID: 347049478485185567}
+  - component: {fileID: 8382045326258855385}
   m_Layer: 0
   m_Name: Cube_RockWGrass_2
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &347049478485185567
+--- !u!65 &8382045326258855385
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

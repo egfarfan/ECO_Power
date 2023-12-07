@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4238882678060916}
   - component: {fileID: 33168749902485618}
   - component: {fileID: 23283425101241794}
-  - component: {fileID: 3612045161935969617}
+  - component: {fileID: 4562455082494881910}
   m_Layer: 0
   m_Name: Cube_Grass
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &3612045161935969617
+--- !u!65 &4562455082494881910
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

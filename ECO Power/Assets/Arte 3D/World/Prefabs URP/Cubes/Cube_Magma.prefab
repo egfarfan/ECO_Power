@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4971325144297026}
   - component: {fileID: 33756881824775476}
   - component: {fileID: 23026514790199910}
-  - component: {fileID: 8816241988566885803}
+  - component: {fileID: -5201310795384787676}
   m_Layer: 0
   m_Name: Cube_Magma
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &8816241988566885803
+--- !u!65 &-5201310795384787676
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

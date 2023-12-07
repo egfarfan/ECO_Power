@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4009635820972530}
   - component: {fileID: 33586581282845030}
   - component: {fileID: 23505968256314430}
-  - component: {fileID: -6521689590425393909}
+  - component: {fileID: 4436810318318370383}
   m_Layer: 0
   m_Name: Cube_Stone3
   m_TagString: Untagged
@@ -84,7 +84,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!65 &-6521689590425393909
+--- !u!65 &4436810318318370383
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
